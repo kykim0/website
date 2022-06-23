@@ -8,4 +8,4 @@ authors: "David Bindel, Paul Chew, John Hopcroft, <strong>Kyu-Young Kim</strong>
 venue: "Technical Report"
 paper: /pdfs/bindel2011.pdf
 ---
-Spectral methods for finding overlapping community structures in networks.
+Developed spectral methods for finding overlapping community structures in networks.
