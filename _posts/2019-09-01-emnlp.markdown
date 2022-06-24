@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Taskmaster-1: Toward a realistic and diverse dialog dataset"
+date: 2019-09-01 00:00:00 +00:00
+image: emnlp2019.png
+categories: research
+authors: "Bill Byrne, Karthik Krishnamoorthi, Chinnadhurai Sankar, Arvind Neelakantan, Daniel Duckworth, Semih Yavuz, Ben Goodrich, Amit Dubey, Andy Cedilnik, <strong>Kyu-Young Kim</strong>"
+venue: "EMNLP-IJCNLP"
+paper: https://arxiv.org/abs/1909.05358
+---
+Built a Wizard-of-Oz system to collect 13,215 task-based dialogs comprising six domains. Released the dataset for NLP research.
