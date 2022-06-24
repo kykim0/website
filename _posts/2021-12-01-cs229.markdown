@@ -5,7 +5,7 @@ date: 2021-12-01 00:00:00 +00:00
 image: cs229.png
 categories: other
 authors: "<strong>Kyu-Young Kim</strong>"
-venue: "CS 229 Machine Learning"
+venue: "Stanford CS229 Machine Learning"
 paper: /pdfs/cs229.pdf
 ---
 Studied statistical and deep learning approaches to time-series modeling and analyzed the methods in terms of the amount of data needed, forecasting accuracy, and ability to incorporate covariates into the models.
