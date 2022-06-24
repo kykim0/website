@@ -5,7 +5,7 @@ date: 2011-05-01 00:00:00 +00:00
 image: joachims2011.png
 categories: other
 authors: "Jun Hui Erh, Sarah Nguyen, <strong>Kyu-Young Kim</strong>, Eric Gold"
-venue: "Technical Report"
+venue: "CS 4999 Independent Reading & Research"
 paper: /pdfs/joachims2011.pdf
 ---
 Build a context-aware recommendation system based on a Bayesian classifier that suggests citations for input documents.
