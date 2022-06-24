@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Effectiveness of Combining Deep Reinforcement Learning Algorithms"
+date: 2020-03-01 00:00:00 +00:00
+image: cs234.png
+categories: other
+authors: "<strong>Kyu-Young Kim</strong>"
+venue: "CS 234 Reinforcement Learning"
+paper: /pdfs/cs234.pdf
+---
+Explored the effectiveness of combining multiple deep reinforcement learning algorithms in training stability, convergence speed, and ability to handle partial-observability.
