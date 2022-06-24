@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Effectiveness of Recurrent Network for Partially-Observable MDPs"
+date: 2019-12-01 00:00:00 +00:00
+image: cs238.png
+categories: other
+authors: "<strong>Kyu-Young Kim</strong>"
+venue: "CS 238 Decision Making Under Uncertainty"
+paper: /pdfs/cs238.pdf
+---
+Use of recurrent neural networks in deep Q-learning to handle partial-observability in MDPs.
