@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Using Machine Translation to Localize Task Oriented NLG Output"
+date: 2021-07-09 00:00:00 +00:00
+image: deepgen2021.png
+categories: research
+authors: "Scott Roy, Cliff Brunk, <strong>Kyu-Young Kim</strong>, Justin Zhao, Markus Freitag, Mihir Kale, Gagan Bansal, Sidharth Mudgal, Chris Varano"
+venue: "ArXiv"
+paper: https://arxiv.org/abs/2107.04512
+---
+Developed a set of methods to localize at scale a task-oriented natural language application like the Google Assistant using neural machine tranlsation. The proposed approach includes development of an appropriate sequence model with an encoding scheme of structured input, fine-tuning on in-domain translations, and automatic error detection.
