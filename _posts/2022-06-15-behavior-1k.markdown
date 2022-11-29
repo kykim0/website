@@ -1,0 +1,11 @@
+---
+layout: post
+title: "BEHAVIOR-1K: A Benchmark for Embodied AI with 1,000 Everyday Activities and Realistic Simulation."
+date: 2022-06-15 00:00:00 +00:00
+image: behavior1k.png
+categories: research
+authors: "Chengshu Li, Ruohan Zhang, Josiah Wong, Cem Gokmen, Sanjana Srivastava, Roberto Martín-Martín, Chen Wang, Gabrael Levine, Michael Lingelbach, Jiankai Sun, Mona Anvari, Minjune Hwang, Manasi Sharma, Arman Aydin, Dhruva Bansal, Samuel Hunter, <strong>Kyu-Young Kim</strong>, Alan Lou, Caleb R Matthews, Ivan Villa-Renteria, Jerry Huayang Tang, Claire Tang, Fei Xia, Silvio Savarese, Hyowon Gweon, Karen Liu, Jiajun Wu, Li Fei-Fei"
+venue: "CoRL (oral)"
+paper: https://openreview.net/pdf?id=_8DoIe8G3t"
+---
+A human-centric benchmark for Embodied AI in simulation with 1,000 everyday activities, a diverse dataset of 5,000+ objects and 50 scenes, and a simulation environment, OmniGibson, that reaches high levels of simulation realism.
